@@ -8,12 +8,8 @@ public class CY {
 	
 	public void UTF() {
 		
-		System.out.println("希望不要有乱码aaaaaaaa111111");
+		System.out.println("穿衣科技");
 		
 	}
-public void UTF2() {
-		
-		System.out.println("希望不要有乱码aaaaaaaa111111");
-		
-	}
+ 
 }
